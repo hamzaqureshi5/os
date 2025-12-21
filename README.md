@@ -1,2 +1,3 @@
 # os
-Operation Syste,
+Operation System
+C++ 17
