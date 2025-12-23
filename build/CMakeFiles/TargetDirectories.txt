@@ -1,0 +1,3 @@
+C:/Users/hamza/Desktop/os/build/CMakeFiles/hello.dir
+C:/Users/hamza/Desktop/os/build/CMakeFiles/edit_cache.dir
+C:/Users/hamza/Desktop/os/build/CMakeFiles/rebuild_cache.dir
